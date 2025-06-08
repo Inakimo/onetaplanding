@@ -94,7 +94,7 @@ export default function HomePage() {
               {/* Social Proof */}
               <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                 <div className="bg-slate-800/50 backdrop-blur-sm rounded-lg p-4">
-                  <div className="text-3xl font-bold text-orange-400 mb-2">20+</div>
+                  <div className="text-3xl font-bold text-orange-400 mb-2">50+</div>
                   <div className="text-gray-300 font-medium">Plantas Optimizadas</div>
                 </div>
                 <div className="bg-slate-800/50 backdrop-blur-sm rounded-lg p-4">
