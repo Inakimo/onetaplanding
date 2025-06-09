@@ -26,7 +26,7 @@ export default function HomePage() {
       <div className="min-h-screen bg-white">
         {/* Header */}
         <header id="header" className="border-b border-gray-200 bg-white/95 backdrop-blur-md sticky top-0 z-50">
-          <div className="container mx-auto px-4 py-4  lg:px-1 lg:py-0 flex items-center justify-between">
+          <div className="container mx-auto px-4 py-4  lg:px-2 lg:py-0 flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Link href="#header">
                 <Image src="/OneTapLogo.png" alt="Logo OneTap" width={100} height={50} />
